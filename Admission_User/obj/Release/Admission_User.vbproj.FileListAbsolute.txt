@@ -1,0 +1,159 @@
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\Quiz.exe.config
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\Quiz.exe.manifest
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\Quiz.application
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\Quiz.exe
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\Quiz.pdb
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\Quiz.xml
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\BunifuDataViz 1.0.1.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\FlashControlV71.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\MySql.Data.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\Google.Protobuf.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\stdole.dll
+C:\Users\satya\Desktop\Admission_User\Admission_User\bin\Release\MySql.Data.xml
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Admission_User.Edit.resources
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Admission_User.Home.resources
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Admission_User.Login.resources
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Admission_User.Resources.resources
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Admission_User.vbproj.GenerateResource.Cache
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Admission_User.vbproj.CoreCompileInputs.cache
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Quiz.exe.manifest
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Quiz.application
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Quiz.exe
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Quiz.xml
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Quiz.pdb
+C:\Users\satya\Desktop\Admission_User\Admission_User\obj\Release\Admission_User.vbprojResolveAssemblyReference.cache
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\Quiz.exe.config
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\Quiz.exe.manifest
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\Quiz.application
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\Quiz.exe
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\Quiz.pdb
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\Quiz.xml
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportSource.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.Shared.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\FlashControlV71.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\MySql.Data.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\ShockwaveFlashObjects.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\Google.Protobuf.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\stdole.dll
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\bin\Release\MySql.Data.xml
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Admission_User.Edit.resources
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Admission_User.Home.resources
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Admission_User.Login.resources
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Admission_User.Resources.resources
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Admission_User.vbproj.GenerateResource.Cache
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Admission_User.vbproj.CoreCompileInputs.cache
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Quiz.exe.manifest
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Quiz.application
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Quiz.exe
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Quiz.xml
+D:\DRIVE\BHU-material\SANGANAN QUIZ\Admission_User\Admission_User\obj\Release\Quiz.pdb
+D:\Shipra\Admission_User\bin\Release\Quiz.exe.config
+D:\Shipra\Admission_User\bin\Release\Quiz.exe.manifest
+D:\Shipra\Admission_User\bin\Release\Quiz.application
+D:\Shipra\Admission_User\bin\Release\Quiz.exe
+D:\Shipra\Admission_User\bin\Release\Quiz.pdb
+D:\Shipra\Admission_User\bin\Release\Quiz.xml
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.Shared.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Shipra\Admission_User\bin\Release\FlashControlV71.dll
+D:\Shipra\Admission_User\bin\Release\MySql.Data.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Shipra\Admission_User\bin\Release\ShockwaveFlashObjects.dll
+D:\Shipra\Admission_User\bin\Release\Google.Protobuf.dll
+D:\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Shipra\Admission_User\bin\Release\stdole.dll
+D:\Shipra\Admission_User\bin\Release\MySql.Data.xml
+D:\Shipra\Admission_User\obj\Release\Admission_User.Edit.resources
+D:\Shipra\Admission_User\obj\Release\Admission_User.Home.resources
+D:\Shipra\Admission_User\obj\Release\Admission_User.Login.resources
+D:\Shipra\Admission_User\obj\Release\Admission_User.Resources.resources
+D:\Shipra\Admission_User\obj\Release\Admission_User.vbproj.GenerateResource.Cache
+D:\Shipra\Admission_User\obj\Release\Admission_User.vbproj.CoreCompileInputs.cache
+D:\Shipra\Admission_User\obj\Release\Quiz.exe.manifest
+D:\Shipra\Admission_User\obj\Release\Quiz.application
+D:\Shipra\Admission_User\obj\Release\Quiz.exe
+D:\Shipra\Admission_User\obj\Release\Quiz.xml
+D:\Shipra\Admission_User\obj\Release\Quiz.pdb
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\Quiz.exe.config
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\Quiz.exe.manifest
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\Quiz.application
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\Quiz.exe
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\Quiz.pdb
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\Quiz.xml
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportSource.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.Shared.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\FlashControlV71.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\MySql.Data.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\ShockwaveFlashObjects.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\Google.Protobuf.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\stdole.dll
+D:\Local Disk (E)\Shipra\Admission_User\bin\Release\MySql.Data.xml
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Admission_User.Edit.resources
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Admission_User.Home.resources
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Admission_User.Login.resources
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Admission_User.Resources.resources
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Admission_User.vbproj.GenerateResource.Cache
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Admission_User.vbproj.CoreCompileInputs.cache
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Quiz.exe.manifest
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Quiz.application
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Quiz.exe
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Quiz.xml
+D:\Local Disk (E)\Shipra\Admission_User\obj\Release\Quiz.pdb
