@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string-array name="question_section">
+        <item>Section 1 : Mathematics</item>
+        <item>Section 2 : Reasoning</item>
+        <item>Section 3 : English</item>
+    </string-array>
+</resources>
